@@ -113,7 +113,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Joy Wang
 
-- [ ] Naichi Zhang
+- [X] Naichi Zhang 😱👻🙀
 
 - [ ] Julius Zinke
 
